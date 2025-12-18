@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Creative Portfolio | Motion Graphics Designer</title>
+
+  <meta name="description" content="Professional Motion Graphics Designer & Video Editor creating stunning visual content." />
+  <meta name="keywords" content="motion graphics, video editor, after effects, premiere pro" />
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@500;700;800&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- HERO -->
+  <header class="hero">
+    <h1>Hi, I’m <span>Mahima Kumar</span></h1>
+    <p>Motion Graphics Designer & Video Editor</p>
+    <a href="#work" class="btn">View My Work</a>
+  </header>
+
+  <!-- ABOUT -->
+  <section class="about">
+    <h2>About Me</h2>
+    <p>
+      I create engaging motion graphics, video edits, and visual stories for brands,
+      agencies, and digital platforms.
+    </p>
+  </section>
+
+  <!-- WORK -->
+  <section id="work" class="work">
+    <h2>Selected Works</h2>
+
+    <div class="grid">
+      <div class="card">Project 1</div>
+      <div class="card">Project 2</div>
+      <div class="card">Project 3</div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section class="contact">
+    <h2>Contact</h2>
+    <p>Email: bellamkondamahimakumar@gmail.com</p>
+  </section>
+
+  <footer>
+    © 2025 Mahima Kumar. All rights reserved.
+  </footer>
+
+</body>
+</html>
